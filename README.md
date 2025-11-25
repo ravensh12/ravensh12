@@ -20,8 +20,6 @@ Data Science + Informatics • The University of Texas at Austin
 ### 📫 How to reach me
 - Email: reachshravanv@gmail.com  
 - LinkedIn: https://linkedin.com/in/shravanvenkat  
-- GitHub: https://github.com/ravensh12  
-
 ---
 
 ## 🔗 Connect with me
