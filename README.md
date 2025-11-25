@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey 👋, I'm Shravan Venkat</h1>
 
 <p align="center">
-Computer Science + AI/ML | The University of Texas at Austin
+Data Science in Informatics + AI/ML | The University of Texas at Austin
 </p>
 
 ---
@@ -11,7 +11,7 @@ Computer Science + AI/ML | The University of Texas at Austin
 - 🤝 I'm open to collaborating on ML, agent systems, and full stack engineering
 
 ### 📫 How to reach me
-- Email: yourname@gmail.com  
+- Email: reachshravanv@gmail.com  
 - Portfolio: https://your-portfolio.com  
 
 ### 🔗 Connect with me
