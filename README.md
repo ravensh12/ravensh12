@@ -25,7 +25,7 @@ Data Science + Informatics • The University of Texas at Austin
 ## 🔗 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/shravanvenkat">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://orcid.org/0009-0009-0577-8907">
