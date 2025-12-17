@@ -29,7 +29,7 @@ Data Science + Informatics • The University of Texas at Austin
   </a>
   &nbsp;&nbsp;
   <a href="https://orcid.org/0009-0009-0577-8907">
-    <img src="https://orcid.org/sites/default/files/images/orcid_24x24.png" height="37"/>
+    <img src="https://orcid.org/sites/default/files/images/orcid_24x24.png" height="45"/>
   </a>
 </p>
 
