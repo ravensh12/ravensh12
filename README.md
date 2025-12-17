@@ -18,17 +18,20 @@ Data Science + Informatics • The University of Texas at Austin
 - AI workflow automation  
 
 ### 📫 How to reach me
+- Personal Portfolio: https://shravanvportfolio.vercel.app/
 - Email: reachshravanv@gmail.com  
-- LinkedIn: https://linkedin.com/in/shravanvenkat  
 ---
 
 ## 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/shravanvenkat">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
-</a>
+  <a href="https://linkedin.com/in/shravanvenkat">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0009-0577-8907">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/orcid.svg" width="35"/>
+  </a>
 </p>
-
 ---
 
 ## 🛠 Languages and Tools  
