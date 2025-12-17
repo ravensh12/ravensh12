@@ -23,16 +23,17 @@ Data Science + Informatics • The University of Texas at Austin
 ---
 
 ## 🔗 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/shravanvenkat">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://orcid.org/0009-0009-0577-8907">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/orcid.svg" width="35"/>
+    <img src="https://orcid.org/sites/default/files/images/orcid-logo.png" width="35"/>
   </a>
 </p>
----
+
+
 
 ## 🛠 Languages and Tools  
 <p align="left">
