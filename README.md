@@ -18,7 +18,7 @@ Data Science + Informatics • The University of Texas at Austin
 - AI workflow automation  
 
 ### 📫 How to reach me
-- Personal Portfolio: https://shravanvportfolio.vercel.app/
+- Personal Portfolio: https://shravanvenkat.vercel.app/
 - Email: reachshravanv@gmail.com  
 ---
 
